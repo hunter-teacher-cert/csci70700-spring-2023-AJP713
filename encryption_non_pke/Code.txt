@@ -1,0 +1,41 @@
+﻿Code Examples: 
+
+
+Most Basic Starter Code for Shift Cipher
+https://replit.com/@ajprado/Most-Basic-Shift#main.py
+
+
+Same basic code structure as before but reduced length (less easy to follow)
+https://replit.com/@ajprado/Shortened-Basic-Shift#main.py
+
+
+This one will only shift letters, all other characters including space will stay the same. 
+https://replit.com/@ajprado/Shift-Coding-Punctuation-Stays#main.py 
+
+
+Basic coding for all 25 possible shift amounts (no spaces/punctuation), can be used for basic decoding.
+https://replit.com/@ajprado/All-shifts-1-to-26#main.py
+
+
+All possible shifts taking into account spaces and punctuation
+https://replit.com/@ajprado/All-shifts-with-punctuation#main.py
+
+
+Finding Letter Frequency in a string using a dictionary
+https://replit.com/@ajprado/letter-frequency-test-dictionary#main.py 
+
+
+Letter Frequency Counter using lists
+https://replit.com/@ajprado/Letter-Frequency-Counter#main.py 
+
+
+Letter Frequency Graph Display
+https://replit.com/@yenminyoung/Letter-Frequency#main.py 
+
+
+Encoded Message with spaces/punctuation
+https://replit.com/@ajprado/Encoded-Message#main.py
+
+
+Encoded Message with no spaces or punctuation
+https://replit.com/@ajprado/encoding-message-no-punctuation#main.py
