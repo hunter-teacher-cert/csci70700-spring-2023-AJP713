@@ -1,5 +1,17 @@
 * Adam Prado
 
+** Flask HW part 2
+
+Link to my Flask Part 2 project code: https://replit.com/@ajprado/Flask-Project-Testing-2#main.py 
+
+
+The path with the most new attriutes (forms, lists, get, post, ...) is '/formTest'
+Link to path: https://flask-project-testing-2.ajprado.repl.co/formTest
+
+
+other path names:  '/' , '/pageTwo', '/namePicker', '/pageThree' , '/templateTest', '/passVar', '/more'
+
+
 ** Flask HW part 1
 
 
