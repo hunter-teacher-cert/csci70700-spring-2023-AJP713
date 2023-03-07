@@ -7,5 +7,4 @@ https://replit.com/@ajprado/AwareDemandingCharactermapping#index.html
 
 The program above shows my creation of 3d graphics using a-frame.  There are numerous examples of rotations, translations and scalings throughout the code.
 
-
-
+I also attached the code as a seperate file just incase my replit doesn't open properly for you.  
